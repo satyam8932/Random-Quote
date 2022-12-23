@@ -5,4 +5,6 @@ Also added christmas snowy flakes effect.
 I have simply created it responsive and optimized
 
 Technologies were used:
-HTML , CSS , Asynchronous JS (ASYNC AWAIT) , Font Awesome , etc
+HTML , CSS , Asynchronous JS (ASYNC AWAIT) , Font Awesome , FIrebase, etc
+
+Link - https://satyam8932.github.io/Random-Quote/
